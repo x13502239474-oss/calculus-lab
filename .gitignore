@@ -1,0 +1,8 @@
+node_modules/
+dist/
+_screenshots/
+reference/
+.workbuddy/
+*.tsbuildinfo
+.DS_Store
+*.local
